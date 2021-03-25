@@ -2,7 +2,7 @@
 name = input('What is your name?: ')
 print ('Hola como estas? ' + name + '!!!')
 
-#Data types
+#Fundamental Data types
 int
 float
 bool
@@ -12,3 +12,6 @@ tuple
 set
 dict
 
+#Classes --> Custom types
+
+#Specialized Data Types
