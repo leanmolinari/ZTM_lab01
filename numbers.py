@@ -15,3 +15,14 @@ print(type(2 / 4))
 # // divide return and int
 # % module
 
+#float 1.5 for example
+
+print(round(3.1)) #--> round() for round a number
+
+
+#Binary
+#int to binary
+print(bin(5))
+
+#binary to int
+print(int('0b101', 2))
