@@ -49,3 +49,7 @@ name = 'Leandro'
 print(name.upper())
 
 #booleans
+
+is_cool = True
+is_not_Cool = False
+
