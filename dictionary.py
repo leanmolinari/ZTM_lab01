@@ -16,7 +16,7 @@ new_dic = {
 }
 
 print(new_dic['c'][1])
-
+print(new_dic.items())
 
 # when use a list or when use a dictionary
 # List is order.
