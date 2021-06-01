@@ -11,3 +11,4 @@ def sueper_function(*args, **kwargs):
 print(sueper_function(1,2,3,4,5, num1=5, num2= 10))
 
 
+#Rules: params, *args, default paramaters, **kwargs
