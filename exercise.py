@@ -21,7 +21,11 @@ picture = [
 
 
 # for repease in an easy way, I'm going to put the above code in a funciton
+
 def show_tree():
+    '''
+    Info: This is for add documentation or help of the function LEAN
+    '''
     for row in picture:
         for pixel in row:
             if (pixel == 1):
