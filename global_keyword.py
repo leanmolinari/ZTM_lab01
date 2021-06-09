@@ -9,3 +9,7 @@ def saludador():
 
 print(saludador())
 
+x = 'hello'[0]
+
+print(x)
+
