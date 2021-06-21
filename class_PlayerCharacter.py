@@ -2,7 +2,7 @@
 
 class PlayerCharacter:
     def __init__(self, name, age):
-        self.name = name
+        self._name = name ### --> when a variable have "_" that mean that the variable is private.
         self.age = age
 
     def run(self):
